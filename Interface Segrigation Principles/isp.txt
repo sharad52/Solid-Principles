@@ -1,1 +1,2 @@
 Single Responsibility Principle
+    -> A Single Class can perform only one Job.
