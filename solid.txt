@@ -1,0 +1,9 @@
+SOLID is one of the most popular sets of design principle in the Object Oriented software development.It is the mnemonic acronym of the following
+five design principle
+    1. Single Responsibility Principle
+    2. Open Close Principle
+    3. Liskov Substitution Principle
+    4. Interface segrigation Principle
+    5. Dependency Inversion Principle.
+
+    
