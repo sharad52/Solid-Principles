@@ -1,1 +1,7 @@
 Single Responsibility Principle
+    -> the classes, software components or microservices should have only one job to do. 
+    To follow this principle, your class isn’t allowed to have more than one responsibility,
+    e.g., the management of entities or the conversion of data types. This avoids any unnecessary,
+    technical coupling between responsibilities and reduces the probability that you need to change your class. 
+    It also lowers the complexity of each change because it reduces the number of dependent classes that are affected by it. 
+    However, be reasonable.
